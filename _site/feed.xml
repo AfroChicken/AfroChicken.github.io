@@ -5,8 +5,8 @@
     <description>AfroChicken</description>
     <link>http://localhost:3000/</link>
     <atom:link href="http://localhost:3000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Oct 2015 19:38:18 +0100</pubDate>
-    <lastBuildDate>Sat, 03 Oct 2015 19:38:18 +0100</lastBuildDate>
+    <pubDate>Sat, 03 Oct 2015 20:05:23 +0100</pubDate>
+    <lastBuildDate>Sat, 03 Oct 2015 20:05:23 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>

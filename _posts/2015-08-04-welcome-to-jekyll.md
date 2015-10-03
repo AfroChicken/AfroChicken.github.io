@@ -3,7 +3,7 @@ layout: post
 title: "Welcome to AfroChicken"
 date: 2015-08-04 03:21:35
 image: '/assets/img/Afro_Chicken.png'
-description: 'Put your description here.'
+description: 'Afrochicken Forever.'
 tags:
 - jekyll
 - web
