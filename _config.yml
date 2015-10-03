@@ -1,0 +1,42 @@
+# Site settings
+description: AfroChicken
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://localhost:3000" # the base hostname & protocol for your site 
+
+# User settings
+username: AfroChicken
+user_description: An AfroChicken
+user_title: AfroChicken
+email: afroc@gmx.com
+twitter_username: afroc_c
+github_username:  
+gplus_username:  
+disqus_username: 
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: /:title/
+
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: Series
+    url: /series
+  - title: Tags
+    url: /tags
+  - title: About Me
+    url: /about
+
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
