@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Welcome to Jekyll"
+title: "Welcome to AfroChicken"
 date: 2015-08-04 03:21:35
-image: '/assets/img/'
+image: '/assets/img/Afro_Chicken.png'
 description: 'Put your description here.'
 tags:
 - jekyll
